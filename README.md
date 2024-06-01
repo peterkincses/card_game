@@ -1,3 +1,9 @@
+1. Install with yarn then run yarn dev
+
+![Screenshot 2024-06-01 at 16 15 25](https://github.com/peterkincses/card_game/assets/4365665/cb0dfea7-f21d-45a5-b976-4ce57703ba35)
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
