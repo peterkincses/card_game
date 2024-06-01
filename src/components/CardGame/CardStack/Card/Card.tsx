@@ -1,5 +1,7 @@
+import React from 'react'; 
+import { CardProps } from '../../types';
+
 const imgPath = '//deckofcardsapi.com/static/img/';
-import CardProps from '../../types';
 
 const Card = (card: CardProps) => {
     const { rank, suit, value } = card;

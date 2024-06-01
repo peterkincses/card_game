@@ -1,4 +1,5 @@
 import './CardStack.css';
+import React from 'react';
 import Card from './Card';
 import {CardProps} from '../types';
 
